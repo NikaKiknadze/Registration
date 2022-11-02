@@ -7,7 +7,6 @@ fun validCarNumber(){
         println("Incorrect")
     }
 }
-
 fun Nomeri(){
     println("Sheiyvane piradi nomeri")
     val a = readln()
@@ -18,7 +17,6 @@ fun Nomeri(){
         println("Correct")
     }
 }
-
 fun emailValidation(){
     println("Sheiyvane E-Mail")
     val a = readln()
